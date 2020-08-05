@@ -1,3 +1,0 @@
-This is an android program that builds a knowledge graph for word/phrase.
-
-It queries ConceptNet to find all the endpoints of different relations for the target word and stores it in a knowledge graph representation.
